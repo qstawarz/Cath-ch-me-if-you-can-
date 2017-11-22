@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Catch_me_"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\cmake_modules\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/Quentin/Desktop/PGPM/Math/Catch me!/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Quentin/Desktop/PGPM/Math/Catch me!/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Quentin/Desktop/PGPM/Math/Catch me!/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Quentin/Desktop/PGPM/Math/Catch me!/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Quentin/Desktop/PGPM/Math/Catch me!/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Catch_me_">
+				<Option output="C:/Users/Quentin/Desktop/PGPM/Math/Catch me!/cmake-build-debug/Catch_me_.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Quentin/Desktop/PGPM/Math/Catch me!/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/MinGW/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Quentin/Desktop/PGPM/Math/Catch me!/cmake-build-debug/Makefile&quot;  VERBOSE=1 Catch_me_"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Quentin/Desktop/PGPM/Math/Catch me!/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Quentin/Desktop/PGPM/Math/Catch me!/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Quentin/Desktop/PGPM/Math/Catch me!/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Catch_me_/fast">
+				<Option output="C:/Users/Quentin/Desktop/PGPM/Math/Catch me!/cmake-build-debug/Catch_me_.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Quentin/Desktop/PGPM/Math/Catch me!/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/MinGW/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Quentin/Desktop/PGPM/Math/Catch me!/cmake-build-debug/Makefile&quot;  VERBOSE=1 Catch_me_/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Quentin/Desktop/PGPM/Math/Catch me!/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Quentin/Desktop/PGPM/Math/Catch me!/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Quentin/Desktop/PGPM/Math/Catch me!/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/Quentin/Desktop/PGPM/Math/Catch me!/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Quentin/Desktop/PGPM/Math/Catch me!/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Quentin/Desktop/PGPM/Math/Catch me!/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Quentin/Desktop/PGPM/Math/Catch me!/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Quentin/Desktop/PGPM/Math/Catch me!/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/Quentin/Desktop/PGPM/Math/Catch me!/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Quentin/Desktop/PGPM/Math/Catch me!/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Quentin/Desktop/PGPM/Math/Catch me!/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Quentin/Desktop/PGPM/Math/Catch me!/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Quentin/Desktop/PGPM/Math/Catch me!/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/Quentin/Desktop/PGPM/Math/Catch me!/includes/Actors/Box.h">
+			<Option target="Catch_me_"/>
+		</Unit>
+		<Unit filename="C:/Users/Quentin/Desktop/PGPM/Math/Catch me!/includes/Actors/Cat.h">
+			<Option target="Catch_me_"/>
+		</Unit>
+		<Unit filename="C:/Users/Quentin/Desktop/PGPM/Math/Catch me!/includes/Actors/IActor.h">
+			<Option target="Catch_me_"/>
+		</Unit>
+		<Unit filename="C:/Users/Quentin/Desktop/PGPM/Math/Catch me!/includes/Actors/Mouse.h">
+			<Option target="Catch_me_"/>
+		</Unit>
+		<Unit filename="C:/Users/Quentin/Desktop/PGPM/Math/Catch me!/includes/Managers/DisplayManager.h">
+			<Option target="Catch_me_"/>
+		</Unit>
+		<Unit filename="C:/Users/Quentin/Desktop/PGPM/Math/Catch me!/includes/Managers/Game.h">
+			<Option target="Catch_me_"/>
+		</Unit>
+		<Unit filename="C:/Users/Quentin/Desktop/PGPM/Math/Catch me!/includes/Managers/IManager.h">
+			<Option target="Catch_me_"/>
+		</Unit>
+		<Unit filename="C:/Users/Quentin/Desktop/PGPM/Math/Catch me!/includes/Managers/InputManager.h">
+			<Option target="Catch_me_"/>
+		</Unit>
+		<Unit filename="C:/Users/Quentin/Desktop/PGPM/Math/Catch me!/includes/Managers/UIManager.h">
+			<Option target="Catch_me_"/>
+		</Unit>
+		<Unit filename="C:/Users/Quentin/Desktop/PGPM/Math/Catch me!/includes/States/StateBase.h">
+			<Option target="Catch_me_"/>
+		</Unit>
+		<Unit filename="C:/Users/Quentin/Desktop/PGPM/Math/Catch me!/includes/States/StateGameOver.h">
+			<Option target="Catch_me_"/>
+		</Unit>
+		<Unit filename="C:/Users/Quentin/Desktop/PGPM/Math/Catch me!/includes/States/StatePlaying.h">
+			<Option target="Catch_me_"/>
+		</Unit>
+		<Unit filename="C:/Users/Quentin/Desktop/PGPM/Math/Catch me!/includes/Utils/Sprite.h">
+			<Option target="Catch_me_"/>
+		</Unit>
+		<Unit filename="C:/Users/Quentin/Desktop/PGPM/Math/Catch me!/includes/Utils/Text.h">
+			<Option target="Catch_me_"/>
+		</Unit>
+		<Unit filename="C:/Users/Quentin/Desktop/PGPM/Math/Catch me!/includes/Utils/Vector.h">
+			<Option target="Catch_me_"/>
+		</Unit>
+		<Unit filename="C:/Users/Quentin/Desktop/PGPM/Math/Catch me!/main.cpp">
+			<Option target="Catch_me_"/>
+		</Unit>
+		<Unit filename="C:/Users/Quentin/Desktop/PGPM/Math/Catch me!/src/Actors/Box.cpp">
+			<Option target="Catch_me_"/>
+		</Unit>
+		<Unit filename="C:/Users/Quentin/Desktop/PGPM/Math/Catch me!/src/Actors/Cat.cpp">
+			<Option target="Catch_me_"/>
+		</Unit>
+		<Unit filename="C:/Users/Quentin/Desktop/PGPM/Math/Catch me!/src/Actors/Mouse.cpp">
+			<Option target="Catch_me_"/>
+		</Unit>
+		<Unit filename="C:/Users/Quentin/Desktop/PGPM/Math/Catch me!/src/Managers/DisplayManager.cpp">
+			<Option target="Catch_me_"/>
+		</Unit>
+		<Unit filename="C:/Users/Quentin/Desktop/PGPM/Math/Catch me!/src/Managers/Game.cpp">
+			<Option target="Catch_me_"/>
+		</Unit>
+		<Unit filename="C:/Users/Quentin/Desktop/PGPM/Math/Catch me!/src/Managers/InputManager.cpp">
+			<Option target="Catch_me_"/>
+		</Unit>
+		<Unit filename="C:/Users/Quentin/Desktop/PGPM/Math/Catch me!/src/Managers/UIManager.cpp">
+			<Option target="Catch_me_"/>
+		</Unit>
+		<Unit filename="C:/Users/Quentin/Desktop/PGPM/Math/Catch me!/src/States/StateGameOver.cpp">
+			<Option target="Catch_me_"/>
+		</Unit>
+		<Unit filename="C:/Users/Quentin/Desktop/PGPM/Math/Catch me!/src/States/StatePlaying.cpp">
+			<Option target="Catch_me_"/>
+		</Unit>
+		<Unit filename="C:/Users/Quentin/Desktop/PGPM/Math/Catch me!/src/Utils/Sprite.cpp">
+			<Option target="Catch_me_"/>
+		</Unit>
+		<Unit filename="C:/Users/Quentin/Desktop/PGPM/Math/Catch me!/src/Utils/Text.cpp">
+			<Option target="Catch_me_"/>
+		</Unit>
+		<Unit filename="C:/Users/Quentin/Desktop/PGPM/Math/Catch me!/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="C:/Users/Quentin/Desktop/PGPM/Math/Catch me!/cmake_modules/FindSFML.cmake">
+			<Option virtualFolder="CMake Files\cmake_modules\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
