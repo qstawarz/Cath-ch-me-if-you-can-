@@ -1,4 +1,4 @@
 # Cath-ch-me-if-you-can-
 4 days project for studies
 
-There is a cat who want to catch the player (the mouse). Use math vectors and angle for movement.
+You are the mouse and you don't want to be touch by the cat. I use math vectors and angle for movement.
